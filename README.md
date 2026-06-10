@@ -54,7 +54,8 @@ The two layers share one physics: the same sun-position and shadow geometry that
 
 
 https://github.com/user-attachments/assets/20537265-518a-4e6d-87ee-2e686629227a
-*A date / time slider moves the sun correctly for the site's latitude; buildings cast geometry-accurate shadows. The same shadow engine feeds the energy model's per-cell PV yield.*
+
+*A full day in twenty seconds: the sun sweeps over the district and every shadow moves with it. The same solar-geometry engine that draws these shadows derates each roof's PV yield in the optimiser - the picture and the numbers come from one physics.*
 
 ![Night scene](media/03_night_lighting_streetlights.png)
 *Night mode: lit buildings and the solar / grid streetlight split from the model.*
