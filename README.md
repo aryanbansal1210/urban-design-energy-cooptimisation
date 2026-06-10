@@ -51,7 +51,9 @@ The two layers share one physics: the same sun-position and shadow geometry that
 ![Town overview](media/01_town_overview_day.png)
 *The optimised district: buildings extruded by height, colour-coded land use, solar farm, carport canopies and energy plant - ~25 render layers in deck.gl / WebGL.*
 
-![Golden-hour shadows](media/02_golden_hour_shadows.png)
+
+
+https://github.com/user-attachments/assets/20537265-518a-4e6d-87ee-2e686629227a
 *A date / time slider moves the sun correctly for the site's latitude; buildings cast geometry-accurate shadows. The same shadow engine feeds the energy model's per-cell PV yield.*
 
 ![Night scene](media/03_night_lighting_streetlights.png)
