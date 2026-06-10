@@ -1,6 +1,8 @@
 
 
 
+
+
 # Urban Design + Energy Co-Optimisation - a 3D Digital Twin of a Net-Zero Indian New Town
 
 **MSc Thesis - Sustainable Energy Futures, Imperial College London (2025-26)**
@@ -9,8 +11,9 @@ A platform that designs a new town **and** its clean-energy system *together* - 
 
 > **Source code:** kept private by design. This is an active research project I intend to open-source on my own timeline, so the optimisation engine is not published here. Happy to walk through it live (screen-share / interview).
 
-<!-- HERO VIDEO: drag-and-drop district_v3_viewer_demo.mp4 into this line while editing on github.com.
-GitHub will host it and render an inline player. Delete this comment after. -->
+
+https://github.com/user-attachments/assets/b14ff84e-9801-4e31-b2d2-449e74b6759b
+
 
 ---
 
