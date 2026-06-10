@@ -9,7 +9,7 @@ A platform that designs a new town **and** its clean-energy system *together*, t
 <!-- DEMO: once you upload a screen-recording or GIF, embed it right here, e.g.:
 ![Flying through the optimised town with the sun-slider casting real-time shadows](demo.gif)
 -->
-**▶️ Demo video:** *(add link or GIF here - see "Demo" below)*
+
 
 ---
 
