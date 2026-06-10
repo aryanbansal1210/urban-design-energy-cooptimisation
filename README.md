@@ -1,12 +1,5 @@
 
 
-https://github.com/user-attachments/assets/6cf92d97-beea-4f60-a668-2142bdfeed0a
-
-
-
-https://github.com/user-attachments/assets/3cbddc08-6f50-4b22-acdd-c55246e9aa61
-
-
 
 # Urban Design + Energy Co-Optimisation - a 3D Digital Twin of a Net-Zero Indian New Town
 
